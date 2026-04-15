@@ -3,7 +3,7 @@
 BERT needs to maintain permanent compatibility with the pre-trained model files,
 so we do not plan to make any major changes to this library (other than what was
 promised in the README). However, we can accept small patches related to
-re-factoring and documentation. To submit contributes, there are just a few
+re-factoring and documentation. To submit contributions, there are just a few
 small guidelines you need to follow.
 
 ## Contributor License Agreement
@@ -29,3 +29,10 @@ information on using pull requests.
 
 This project follows
 [Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+
+---
+
+> **Personal note:** This is my personal fork used for learning and experimenting
+> with BERT fine-tuning. I am not actively accepting external contributions here.
+> Please refer to the [upstream repository](https://github.com/google-research/bert)
+> for the official project.
